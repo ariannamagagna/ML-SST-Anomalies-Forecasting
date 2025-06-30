@@ -14,8 +14,6 @@ This project evaluates the performance of **LSTM** and **MLP** architectures in 
 - Compare performance of LSTM and MLP architectures
 - Investigate temporal dependencies in SST anomaly patterns
 
-![image](https://github.com/user-attachments/assets/d32835b0-0ce6-45c2-8c79-c3ce8176ef45)
-
 ---
 
 ## Methodology
