@@ -2,6 +2,8 @@
 
 Forecasting Sea Surface Temperature (SST) anomalies using machine learning and empirical orthogonal function (EOF) analysis on ERA5 data.
 
+![image](https://github.com/user-attachments/assets/d32835b0-0ce6-45c2-8c79-c3ce8176ef45)
+
 ---
 
 ## Overview
