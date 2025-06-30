@@ -1,8 +1,7 @@
 # ML for SST Anomalies Forecasting
 
 Forecasting Sea Surface Temperature (SST) anomalies using machine learning and empirical orthogonal function (EOF) analysis on ERA5 data.
-
-![image](https://github.com/user-attachments/assets/d32835b0-0ce6-45c2-8c79-c3ce8176ef45)
+[Read the Full Report](https://github.com/ariannamagagna/ML-SST-Anomalies-Forecasting/blob/main/MLP_vs_LSTM_forecasting_Ciancarella_Flocco_Magagna.pdf.pdf)
 
 ---
 
@@ -14,6 +13,8 @@ This project evaluates the performance of **LSTM** and **MLP** architectures in 
 - Model SST variability using historical reanalysis data
 - Compare performance of LSTM and MLP architectures
 - Investigate temporal dependencies in SST anomaly patterns
+
+![image](https://github.com/user-attachments/assets/d32835b0-0ce6-45c2-8c79-c3ce8176ef45)
 
 ---
 
